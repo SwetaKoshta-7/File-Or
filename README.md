@@ -27,7 +27,7 @@ Sweta Koshta
 | `shutil` | Moves files between directories. |
 | `logging` | Records file operations and errors. |
 | `argparse` | Processes command-line arguments. |
-| `os` | Supports operating-system-related operations. |
+
 
 ## Usage
 
