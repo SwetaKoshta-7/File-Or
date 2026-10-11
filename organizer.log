@@ -1,0 +1,20 @@
+2026-10-11 15:42:20,648 - INFO - DRY RUN: Would move D:\WeIntern\Training Week 2\file_organizer\test_files\movie.mp4 to D:\WeIntern\Training Week 2\file_organizer\test_files\Videos\movie.mp4
+2026-10-11 15:42:20,648 - INFO - DRY RUN: Would move D:\WeIntern\Training Week 2\file_organizer\test_files\music.mp3 to D:\WeIntern\Training Week 2\file_organizer\test_files\Music\music.mp3
+2026-10-11 15:42:20,648 - INFO - DRY RUN: Would move D:\WeIntern\Training Week 2\file_organizer\test_files\notes.txt to D:\WeIntern\Training Week 2\file_organizer\test_files\Documents\notes.txt
+2026-10-11 15:42:20,649 - INFO - DRY RUN: Would move D:\WeIntern\Training Week 2\file_organizer\test_files\photo.jpg to D:\WeIntern\Training Week 2\file_organizer\test_files\Images\photo.jpg
+2026-10-11 15:42:20,649 - INFO - DRY RUN: Would move D:\WeIntern\Training Week 2\file_organizer\test_files\report.pdf to D:\WeIntern\Training Week 2\file_organizer\test_files\Documents\report.pdf
+2026-10-11 15:42:20,649 - INFO - DRY RUN: Would move D:\WeIntern\Training Week 2\file_organizer\test_files\script.py to D:\WeIntern\Training Week 2\file_organizer\test_files\Code\script.py
+2026-10-11 15:43:58,528 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\movie.mp4 to D:\WeIntern\Training Week 2\file_organizer\test_files\Videos\movie.mp4
+2026-10-11 15:43:58,528 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\music.mp3 to D:\WeIntern\Training Week 2\file_organizer\test_files\Music\music.mp3
+2026-10-11 15:43:58,529 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\notes.txt to D:\WeIntern\Training Week 2\file_organizer\test_files\Documents\notes.txt
+2026-10-11 15:43:58,529 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\photo.jpg to D:\WeIntern\Training Week 2\file_organizer\test_files\Images\photo.jpg
+2026-10-11 15:43:58,530 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\report.pdf to D:\WeIntern\Training Week 2\file_organizer\test_files\Documents\report.pdf
+2026-10-11 15:43:58,530 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\script.py to D:\WeIntern\Training Week 2\file_organizer\test_files\Code\script.py
+2026-10-11 15:50:19,699 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\archive.zip to D:\WeIntern\Training Week 2\file_organizer\test_files\Others\archive.zip
+2026-10-11 15:52:50,429 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\test_files\photo.jpg to D:\WeIntern\Training Week 2\file_organizer\test_files\Images\photo_1.jpg
+2026-10-11 15:55:09,029 - INFO - DRY RUN: Would move D:\WeIntern\Training Week 2\file_organizer\test_files\dry_run_test.txt to D:\WeIntern\Training Week 2\file_organizer\test_files\Documents\dry_run_test.txt
+2026-10-11 16:06:45,670 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\archive.zip to D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\Others\archive.zip
+2026-10-11 16:06:45,671 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\music.mp3 to D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\Music\music.mp3
+2026-10-11 16:06:45,672 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\notes.txt to D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\Documents\notes.txt
+2026-10-11 16:06:45,672 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\photo.jpg to D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\Images\photo.jpg
+2026-10-11 16:06:45,673 - INFO - Moved D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\script.py to D:\WeIntern\Training Week 2\file_organizer\screenshot_demo\Code\script.py

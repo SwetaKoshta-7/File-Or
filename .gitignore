@@ -1,0 +1,7 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Test directories
+test_files/
+screenshot_demo/
